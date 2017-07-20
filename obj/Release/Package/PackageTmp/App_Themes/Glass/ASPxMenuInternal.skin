@@ -1,0 +1,16 @@
+<%@ Register TagPrefix="dxm" Namespace="DevExpress.Web.ASPxMenu" Assembly="DevExpress.Web.v7.3" %>
+<dxm:ASPxMenu runat="server" BackColor="White" EncodeHtml="False" Orientation="Vertical" Width="150px" SkinId="Appearance">
+    <ItemStyle ForeColor="#666666">
+        <HoverStyle ForeColor="#666666" BackColor="#F2F2F2">
+            <Border BorderColor="#F2F2F2" />
+        </HoverStyle>
+        <SelectedStyle BackColor="#D8D8D8" ForeColor="Black">
+            <Border BorderColor="#D8D8D8" />
+        </SelectedStyle>
+    </ItemStyle>
+    <Border BorderColor="#9D9D9D" />
+    <Paddings Padding="1px" />
+</dxm:ASPxMenu>
+<dxm:ASPxMenu SkinID="IconMenu" runat="server" AutoSeparators="RootOnly" EnableDefaultAppearance="False" ItemLinkMode="TextOnly" AutoPostBack="False" CssFilePath="~/App_Themes/Glass/MenuInternal/IconMenu/styles.css" CssPostfix="Demo">
+    <SeparatorPaddings Padding="7px" PaddingTop="2px" PaddingBottom="0px" />
+</dxm:ASPxMenu>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/LMS_deploy" />
+  <setParameter name="LigitaConString-Web.config Connection String" value="Data Source=TS11PC;Initial Catalog=LMS;Persist Security Info=False;User ID=sa;Password=123" />
+</parameters>

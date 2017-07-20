@@ -1,0 +1,367 @@
+﻿.dxgvControl_TAF,
+.dxgvDisabled_TAF
+{
+	border: Solid 1px #9F9F9F;
+	font: 11px Tahoma;
+	background-color: #F2F2F2;
+	color: Black;
+	cursor: default;
+}
+.dxgvDisabled_TAF 
+{
+	color: Gray;
+}
+.dxgvControl_TAF a 
+{
+	color: #5555FF;
+}
+.dxgvDisabled_TAF a
+{
+	color: Gray;
+}
+.dxgvLoadingPanel_TAF
+{
+	border: solid 1px #9F9F9F;
+	background-color: #E3E3E1;
+	font: 9pt Tahoma;
+	color: #303030;
+}
+.dxgvLoadingPanel_TAF td
+{
+	white-space: nowrap;
+	text-align: center;
+	padding: 12px 12px 12px 12px;
+}
+.dxgvLoadingPanelStatusBar_TAF
+{
+	background-color: Transparent;
+	font: 9pt Tahoma;
+}
+.dxgvLoadingPanelStatusBar_TAF td
+{
+	white-space: nowrap;
+	text-align: center;
+	padding: 0px 2px 0px 2px;
+}
+.dxgvTable_TAF
+{
+	background-color: White;
+	border: 0;
+	border-collapse: separate!important;
+	overflow: hidden;
+	font: 9pt Tahoma;
+	color: Black;
+}
+.dxgvInlineEditRow_TAF,
+.dxgvDataRow_TAF
+{
+}
+.dxgvInlineEditRow_TAF td.dxgv
+{
+	border-bottom: Solid 1px #D3D3D3;
+	border-right: Solid 1px #D3D3D3;
+}
+.dxgvDataRowAlt_TAF
+{
+	background-color: #EDEDEB;
+}
+.dxgvFilterRow_TAF 
+{
+	background-color: #E7E7E7;
+}
+.dxgvEditForm_TAF 
+{
+	background-color: #F0F0F0;
+}
+.dxgvEditForm_TAF td.dxgv
+{
+	border-bottom: Solid 1px #D3D3D3;
+	padding: 8px 10px 10px 10px;
+}
+.dxgvSelectedRow_TAF
+{
+	background-color: #A0A0A0;
+    color: White;
+}
+.dxgvFocusedRow_TAF
+{
+	background-color: #8D8D8D;
+    color: White;
+}
+.dxgvSelectedRow_TAF .dxgvCommandColumn_TAF a, 
+.dxgvFocusedRow_TAF .dxgvCommandColumn_TAF a
+{
+    color: White;
+}
+.dxgvSelectedRow_TAF .dxgvCommandColumn_TAF a:hover, 
+.dxgvFocusedRow_TAF .dxgvCommandColumn_TAF a:hover
+{
+    color: #F0F0F0;
+}
+.dxgvSelectedRow_TAF .dxgvCommandColumn_TAF a:visited, 
+.dxgvFocusedRow_TAF .dxgvCommandColumn_TAF a:visited
+{
+    color: #F0F0F0;
+}
+
+.dxgvPreviewRow_TAF
+{
+	background-color: #F5F5F5;
+	color: #707070;
+}
+.dxgvDetailRow_TAF td.dxgv,
+.dxgvPreviewRow_TAF td.dxgv,
+.dxgvEmptyDataRow_TAF td.dxgv
+{
+	padding: 20px 2px 20px 4px;
+	border-bottom: Solid 1px #D3D3D3;
+	border-top: 0;
+	border-left: 0;
+	border-right: 0;
+}
+.dxgvPreviewRow_TAF td.dxgv
+{
+	padding: 10px 10px 10px 15px;
+}
+.dxgvDetailRow_TAF td.dxgv 
+{
+	padding: 16px 18px 16px 0px;
+}
+.dxgvDetailRow_TAF td.dxgvIndentCell 
+{
+    padding-right: 0px;
+}
+.dxgvEmptyDataRow_TAF
+{
+	color: Gray;
+}
+.dxgvEmptyDataRow_TAF td.dxgv
+{
+    border-bottom: Solid 1px #CFCFCF;
+	text-align: center;
+}
+
+.dxgvEditFormDisplayRow_TAF td.dxgv,
+.dxgvDataRow_TAF td.dxgv,
+.dxgvDataRowAlt_TAF td.dxgv,
+.dxgvSelectedRow_TAF td.dxgv,
+.dxgvFocusedRow_TAF td.dxgv
+{
+	overflow: hidden;
+	border-bottom: Solid 1px #CFCFCF;
+	border-right: Solid 1px #CFCFCF;
+	border-top: 0;
+	border-left: 0;
+	padding: 3px 6px 4px 6px;
+}
+.dxgvEditFormDisplayRow_TAF
+{
+}
+.dxgvEditFormDisplayRow_TAF td.dxgv 
+{
+}
+
+.dxgvEditingErrorRow_TAF
+{
+	background-color: #FFC8C8;
+	color: #FF0000;
+}
+.dxgvEditingErrorRow_TAF td.dxgv
+{
+	white-space: pre-wrap;
+	border-bottom: Solid 1px #D3D3D3;
+	border-right: 0;
+	border-top: 0;
+	border-left: 0;
+	padding: 6px 10px 6px 10px;
+}
+
+.dxgvFilterRow_TAF td.dxgv
+{
+	border-bottom: Solid 1px #C1C1C1;
+	border-right: Solid 1px #C1C1C1;
+	border-top: 0;
+	border-left: 0;
+	padding: 2px 2px 2px 2px;
+}
+.dxgvGroupRow_TAF
+{
+	background-color: #EDEDED;
+}
+.dxgvFocusedGroupRow_TAF
+{
+	background-color: #8D8D8D;
+    color: White;
+}
+.dxgvGroupRow_TAF td.dxgv,
+.dxgvFocusedGroupRow_TAF td.dxgv
+{
+	border: none 0;
+	vertical-align: middle;
+	white-space: nowrap;
+	border-bottom: Solid 1px #D3D3D3;
+	padding: 3px 6px 4px 6px;
+}
+
+.dxgvHeaderPanel_TAF {
+	background-color: #F9F9F9;
+	color: Black;
+	padding: 8px 6px 8px 6px;
+	border-bottom: Solid 1px #9F9F9F;
+}
+
+.dxgvHeader_TAF {
+	cursor: pointer;
+	white-space: nowrap;
+	padding: 4px 6px 5px 6px;
+	border: Solid 1px #9F9F9F;
+	background-color: #DCDCDC;
+	overflow: hidden;
+	-moz-user-select: none;
+}
+.dxgvHeader_TAF, .dxgvHeader_TAF table {
+	color: Black;
+	font: 9pt Tahoma;
+}
+.dxgvHeader_TAF td {
+	white-space: nowrap;
+}
+.dxgvCustomization_TAF, 
+.dxgvPopupEditForm_TAF
+{
+	width: 100%;
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+	overflow: auto;
+}
+.dxgvGroupPanel_TAF
+{
+	white-space: nowrap;
+	font-size: 9pt;
+	
+	background-color: #EDEDED;
+	color: #8D8D8D;
+	border-bottom: Solid 1px #9F9F9F;
+	padding: 7px 4px 8px 6px;
+}
+.dxgvFooter_TAF
+{
+	background-color: #D7D7D7;
+	white-space: nowrap;
+}
+.dxgvFooter_TAF td.dxgv
+{
+	padding: 5px 6px 6px 6px;
+	border-bottom: Solid 1px #BCBCBC;
+	border-right: 0;
+}
+.dxgvGroupFooter_TAF
+{
+	background-color: #E0E0E0;
+}
+.dxgvGroupFooter_TAF td.dxgv 
+{
+	white-space: nowrap;
+}
+.dxgvGroupFooter_TAF td.dxgv 
+{
+    padding: 5px 4px 6px 6px;
+    border-bottom: Solid 1px #CFCFCF;
+    border-right: 0;
+}
+.dxgvDataRow_TAF td.dxgvIndentCell,
+.dxgvGroupRow_TAF td.dxgvIndentCell,
+.dxgvGroupFooter_TAF td.dxgvIndentCell
+{
+    background-color: #EDEDED;
+	border-right: Solid 1px #CFCFCF;
+	border-top: 0px;
+}
+
+.dxgvTitlePanel_TAF
+{
+    font-size: 15px;
+	font-weight: normal;
+	padding: 3px 3px 5px 3px;
+	text-align: center;	
+	background-color: #ACACAC;
+	color: White;
+	border-bottom: Solid 1px #9F9F9F;
+}
+.dxgvLoadingDiv_TAF
+{
+	background-color:Gray;	
+	opacity: 0.01;
+	filter:progid:DXImageTransform.Microsoft.Alpha(Style=0, Opacity=1);
+}
+.dxgvStatusBar_TAF 
+{
+	border-top: Solid 1px #9F9F9F;
+}
+.dxgvStatusBar_TAF tr
+{
+	height: 20px;
+}
+.dxgvCommandColumn_TAF
+{
+	padding: 2px 2px 2px 2px;
+}
+.dxgvCommandColumn_TAF a
+{
+	margin: 0px 3px 0px 0px;
+	color:  #0d45b7;
+}
+.dxgvCommandColumn_TAF a:hover
+{
+	color:  #5494ea;
+}
+.dxgvCommandColumn_TAF a:visited
+{
+	color:  #ab59a6;
+}
+
+.dxgvCommandColumnItem_TAF
+{
+	padding: 2px 2px 2px 2px;
+}
+.dxgvEditFormTable_TAF
+{
+	padding: 2px 6px 6px 4px;
+	font: 11px Tahoma;
+	color: Black;
+}
+.dxgvEditFormTable_TAF a
+{
+    color: #0d45b7;
+
+}
+.dxgvEditFormTable_TAF a:hover
+{
+    color: #5494ea;
+
+}
+.dxgvEditFormTable_TAF a:visited
+{
+    color: #ab59a6;
+}
+
+.dxgvEditFormCaption_TAF
+{
+	padding: 4px 4px 4px 10px; 
+}
+
+.dxgvInlineEditCell_TAF
+{
+	padding: 1px 1px 1px 1px; 
+}
+
+.dxgvEditFormCell_TAF
+{
+	padding: 4px 4px 4px 4px; 
+	border: 0;
+}
+.dxgvControl_TAF .dxpControl_TAF, .dxgvDisabled_TAF .dxpControl_TAF
+{
+	padding-top: 4px;    
+}
+

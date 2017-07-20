@@ -1,0 +1,432 @@
+D:\Rian\Ligita\Ligita\obj\Debug\ResolveAssemblyReference.cache
+D:\Rian\Ligita\Ligita\obj\Debug\Ligita.Resources.resources
+D:\Rian\Ligita\Ligita\obj\Debug\Ligita.vbproj.GenerateResource.Cache
+D:\Rian\Ligita\Ligita\bin\Ligita.dll
+D:\Rian\Ligita\Ligita\bin\Ligita.pdb
+D:\Rian\Ligita\Ligita\bin\Ligita.xml
+D:\Rian\Ligita\Ligita\bin\DevExpress.Data.v7.3.dll
+D:\Rian\Ligita\Ligita\bin\DevExpress.Web.ASPxEditors.v7.3.dll
+D:\Rian\Ligita\Ligita\bin\DevExpress.Web.ASPxGridView.v7.3.dll
+D:\Rian\Ligita\Ligita\bin\DevExpress.Web.v7.3.dll
+D:\Rian\Ligita\Ligita\bin\System.Configuration.dll
+D:\Rian\Ligita\Ligita\bin\System.Core.dll
+D:\Rian\Ligita\Ligita\bin\System.Data.DataSetExtensions.dll
+D:\Rian\Ligita\Ligita\bin\System.Data.dll
+D:\Rian\Ligita\Ligita\bin\System.dll
+D:\Rian\Ligita\Ligita\bin\System.Drawing.dll
+D:\Rian\Ligita\Ligita\bin\System.EnterpriseServices.dll
+D:\Rian\Ligita\Ligita\bin\System.Web.dll
+D:\Rian\Ligita\Ligita\bin\System.Web.Extensions.dll
+D:\Rian\Ligita\Ligita\bin\System.Web.Mobile.dll
+D:\Rian\Ligita\Ligita\bin\System.Web.Services.dll
+D:\Rian\Ligita\Ligita\bin\System.Xml.dll
+D:\Rian\Ligita\Ligita\bin\System.Xml.Linq.dll
+D:\Rian\Ligita\Ligita\bin\DevExpress.Web.ASPxEditors.v7.3.xml
+D:\Rian\Ligita\Ligita\bin\DevExpress.Web.v7.3.xml
+D:\Rian\Ligita\Ligita\bin\DevExpress.Data.v7.3.xml
+D:\Rian\Ligita\Ligita\bin\DevExpress.Web.ASPxGridView.v7.3.xml
+D:\Rian\Ligita\Ligita\obj\Debug\Ligita.dll
+D:\Rian\Ligita\Ligita\obj\Debug\Ligita.xml
+D:\Rian\Ligita\Ligita\obj\Debug\Ligita.pdb
+D:\Rian\Ligita\bin\Ligita.dll
+D:\Rian\Ligita\bin\Ligita.pdb
+D:\Rian\Ligita\bin\Ligita.xml
+D:\Rian\Ligita\bin\DevExpress.Data.v7.3.dll
+D:\Rian\Ligita\bin\DevExpress.Web.ASPxEditors.v7.3.dll
+D:\Rian\Ligita\bin\DevExpress.Web.ASPxGridView.v7.3.dll
+D:\Rian\Ligita\bin\DevExpress.Web.v7.3.dll
+D:\Rian\Ligita\bin\System.Configuration.dll
+D:\Rian\Ligita\bin\System.Core.dll
+D:\Rian\Ligita\bin\System.Data.DataSetExtensions.dll
+D:\Rian\Ligita\bin\System.Data.dll
+D:\Rian\Ligita\bin\System.dll
+D:\Rian\Ligita\bin\System.Drawing.dll
+D:\Rian\Ligita\bin\System.EnterpriseServices.dll
+D:\Rian\Ligita\bin\System.Web.dll
+D:\Rian\Ligita\bin\System.Web.Extensions.dll
+D:\Rian\Ligita\bin\System.Web.Mobile.dll
+D:\Rian\Ligita\bin\System.Web.Services.dll
+D:\Rian\Ligita\bin\System.Xml.dll
+D:\Rian\Ligita\bin\System.Xml.Linq.dll
+D:\Rian\Ligita\bin\DevExpress.Web.ASPxEditors.v7.3.xml
+D:\Rian\Ligita\bin\DevExpress.Web.v7.3.xml
+D:\Rian\Ligita\bin\DevExpress.Data.v7.3.xml
+D:\Rian\Ligita\bin\DevExpress.Web.ASPxGridView.v7.3.xml
+D:\Rian\Ligita\obj\Debug\ResolveAssemblyReference.cache
+D:\Rian\Ligita\obj\Debug\Ligita.Resources.resources
+D:\Rian\Ligita\obj\Debug\Ligita.vbproj.GenerateResource.Cache
+D:\Rian\Ligita\obj\Debug\Ligita.dll
+D:\Rian\Ligita\obj\Debug\Ligita.xml
+D:\Rian\Ligita\obj\Debug\Ligita.pdb
+D:\numpang\Ligita\obj\Debug\ResolveAssemblyReference.cache
+D:\numpang\Ligita\obj\Debug\Ligita.Resources.resources
+D:\numpang\Ligita\obj\Debug\Ligita.vbproj.GenerateResource.Cache
+D:\numpang\Ligita\obj\Debug\Ligita.dll
+D:\numpang\Ligita\obj\Debug\Ligita.xml
+D:\numpang\Ligita\obj\Debug\Ligita.pdb
+D:\numpang\Ligita\bin\Ligita.dll
+D:\numpang\Ligita\bin\Ligita.pdb
+D:\numpang\Ligita\bin\Ligita.xml
+D:\numpang\Ligita\bin\DevExpress.Data.v7.3.dll
+D:\numpang\Ligita\bin\DevExpress.Web.ASPxEditors.v7.3.dll
+D:\numpang\Ligita\bin\DevExpress.Web.ASPxGridView.v7.3.dll
+D:\numpang\Ligita\bin\DevExpress.Web.v7.3.dll
+D:\numpang\Ligita\bin\System.Configuration.dll
+D:\numpang\Ligita\bin\System.Core.dll
+D:\numpang\Ligita\bin\System.Data.DataSetExtensions.dll
+D:\numpang\Ligita\bin\System.Data.dll
+D:\numpang\Ligita\bin\System.dll
+D:\numpang\Ligita\bin\System.Drawing.dll
+D:\numpang\Ligita\bin\System.EnterpriseServices.dll
+D:\numpang\Ligita\bin\System.Web.dll
+D:\numpang\Ligita\bin\System.Web.Extensions.dll
+D:\numpang\Ligita\bin\System.Web.Mobile.dll
+D:\numpang\Ligita\bin\System.Web.Services.dll
+D:\numpang\Ligita\bin\System.Xml.dll
+D:\numpang\Ligita\bin\System.Xml.Linq.dll
+D:\numpang\Ligita\bin\DevExpress.Web.ASPxEditors.v7.3.xml
+D:\numpang\Ligita\bin\DevExpress.Web.v7.3.xml
+D:\numpang\Ligita\bin\DevExpress.Data.v7.3.xml
+D:\numpang\Ligita\bin\DevExpress.Web.ASPxGridView.v7.3.xml
+D:\numpang\Ligita\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\numpang\Ligita\bin\CrystalDecisions.ReportSource.dll
+D:\numpang\Ligita\bin\CrystalDecisions.Web.dll
+D:\numpang\Ligita\bin\CrystalDecisions.Windows.Forms.dll
+D:\numpang\Ligita\bin\CrystalDecisions.CrystalReports.Engine.xml
+D:\numpang\Ligita\bin\CrystalDecisions.Windows.Forms.xml
+D:\numpang\Ligita\bin\CrystalDecisions.Web.xml
+D:\numpang\Ligita\bin\CrystalDecisions.ReportSource.xml
+D:\numpang\Ligita\bin\CrystalDecisions.Shared.dll
+D:\numpang\Ligita\bin\CrystalDecisions.Shared.xml
+D:\Rian\Ligita\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Rian\Ligita\bin\CrystalDecisions.ReportSource.dll
+D:\Rian\Ligita\bin\CrystalDecisions.Shared.dll
+D:\Rian\Ligita\bin\CrystalDecisions.Web.dll
+D:\Rian\Ligita\bin\CrystalDecisions.Windows.Forms.dll
+D:\Rian\Ligita\bin\CrystalDecisions.CrystalReports.Engine.xml
+D:\Rian\Ligita\bin\CrystalDecisions.Windows.Forms.xml
+D:\Rian\Ligita\bin\CrystalDecisions.Web.xml
+D:\Rian\Ligita\bin\CrystalDecisions.Shared.xml
+D:\Rian\Ligita\bin\CrystalDecisions.ReportSource.xml
+D:\flash disk\numpang\Ligita\bin\Ligita.dll
+D:\flash disk\numpang\Ligita\bin\Ligita.pdb
+D:\flash disk\numpang\Ligita\bin\Ligita.xml
+D:\flash disk\numpang\Ligita\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\flash disk\numpang\Ligita\bin\CrystalDecisions.ReportSource.dll
+D:\flash disk\numpang\Ligita\bin\CrystalDecisions.Shared.dll
+D:\flash disk\numpang\Ligita\bin\CrystalDecisions.Web.dll
+D:\flash disk\numpang\Ligita\bin\CrystalDecisions.Windows.Forms.dll
+D:\flash disk\numpang\Ligita\bin\DevExpress.Data.v7.3.dll
+D:\flash disk\numpang\Ligita\bin\DevExpress.Web.ASPxEditors.v7.3.dll
+D:\flash disk\numpang\Ligita\bin\DevExpress.Web.ASPxGridView.v7.3.dll
+D:\flash disk\numpang\Ligita\bin\DevExpress.Web.v7.3.dll
+D:\flash disk\numpang\Ligita\bin\System.Configuration.dll
+D:\flash disk\numpang\Ligita\bin\System.Core.dll
+D:\flash disk\numpang\Ligita\bin\System.Data.DataSetExtensions.dll
+D:\flash disk\numpang\Ligita\bin\System.Data.dll
+D:\flash disk\numpang\Ligita\bin\System.dll
+D:\flash disk\numpang\Ligita\bin\System.Drawing.dll
+D:\flash disk\numpang\Ligita\bin\System.EnterpriseServices.dll
+D:\flash disk\numpang\Ligita\bin\System.Web.dll
+D:\flash disk\numpang\Ligita\bin\System.Web.Extensions.dll
+D:\flash disk\numpang\Ligita\bin\System.Web.Mobile.dll
+D:\flash disk\numpang\Ligita\bin\System.Web.Services.dll
+D:\flash disk\numpang\Ligita\bin\System.Xml.dll
+D:\flash disk\numpang\Ligita\bin\System.Xml.Linq.dll
+D:\flash disk\numpang\Ligita\bin\CrystalDecisions.CrystalReports.Engine.xml
+D:\flash disk\numpang\Ligita\bin\CrystalDecisions.Windows.Forms.xml
+D:\flash disk\numpang\Ligita\bin\CrystalDecisions.Web.xml
+D:\flash disk\numpang\Ligita\bin\CrystalDecisions.Shared.xml
+D:\flash disk\numpang\Ligita\bin\DevExpress.Web.ASPxEditors.v7.3.xml
+D:\flash disk\numpang\Ligita\bin\DevExpress.Web.v7.3.xml
+D:\flash disk\numpang\Ligita\bin\CrystalDecisions.ReportSource.xml
+D:\flash disk\numpang\Ligita\bin\DevExpress.Data.v7.3.xml
+D:\flash disk\numpang\Ligita\bin\DevExpress.Web.ASPxGridView.v7.3.xml
+D:\flash disk\numpang\Ligita\obj\Debug\ResolveAssemblyReference.cache
+D:\flash disk\numpang\Ligita\obj\Debug\Ligita.Resources.resources
+D:\flash disk\numpang\Ligita\obj\Debug\Ligita.vbproj.GenerateResource.Cache
+D:\flash disk\numpang\Ligita\obj\Debug\Ligita.dll
+D:\flash disk\numpang\Ligita\obj\Debug\Ligita.xml
+D:\flash disk\numpang\Ligita\obj\Debug\Ligita.pdb
+D:\IndraWS\numpang\Ligita\bin\Ligita.dll
+D:\IndraWS\numpang\Ligita\bin\Ligita.pdb
+D:\IndraWS\numpang\Ligita\bin\Ligita.xml
+D:\IndraWS\numpang\Ligita\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\IndraWS\numpang\Ligita\bin\CrystalDecisions.ReportSource.dll
+D:\IndraWS\numpang\Ligita\bin\CrystalDecisions.Shared.dll
+D:\IndraWS\numpang\Ligita\bin\CrystalDecisions.Web.dll
+D:\IndraWS\numpang\Ligita\bin\CrystalDecisions.Windows.Forms.dll
+D:\IndraWS\numpang\Ligita\bin\DevExpress.Data.v7.3.dll
+D:\IndraWS\numpang\Ligita\bin\DevExpress.Web.ASPxEditors.v7.3.dll
+D:\IndraWS\numpang\Ligita\bin\DevExpress.Web.ASPxGridView.v7.3.dll
+D:\IndraWS\numpang\Ligita\bin\DevExpress.Web.v7.3.dll
+D:\IndraWS\numpang\Ligita\bin\System.Configuration.dll
+D:\IndraWS\numpang\Ligita\bin\System.Core.dll
+D:\IndraWS\numpang\Ligita\bin\System.Data.DataSetExtensions.dll
+D:\IndraWS\numpang\Ligita\bin\System.Data.dll
+D:\IndraWS\numpang\Ligita\bin\System.dll
+D:\IndraWS\numpang\Ligita\bin\System.Drawing.dll
+D:\IndraWS\numpang\Ligita\bin\System.EnterpriseServices.dll
+D:\IndraWS\numpang\Ligita\bin\System.Web.dll
+D:\IndraWS\numpang\Ligita\bin\System.Web.Extensions.dll
+D:\IndraWS\numpang\Ligita\bin\System.Web.Mobile.dll
+D:\IndraWS\numpang\Ligita\bin\System.Web.Services.dll
+D:\IndraWS\numpang\Ligita\bin\System.Xml.dll
+D:\IndraWS\numpang\Ligita\bin\System.Xml.Linq.dll
+D:\IndraWS\numpang\Ligita\bin\CrystalDecisions.CrystalReports.Engine.xml
+D:\IndraWS\numpang\Ligita\bin\CrystalDecisions.Windows.Forms.xml
+D:\IndraWS\numpang\Ligita\bin\CrystalDecisions.Web.xml
+D:\IndraWS\numpang\Ligita\bin\CrystalDecisions.Shared.xml
+D:\IndraWS\numpang\Ligita\bin\DevExpress.Web.ASPxEditors.v7.3.xml
+D:\IndraWS\numpang\Ligita\bin\DevExpress.Web.v7.3.xml
+D:\IndraWS\numpang\Ligita\bin\CrystalDecisions.ReportSource.xml
+D:\IndraWS\numpang\Ligita\bin\DevExpress.Data.v7.3.xml
+D:\IndraWS\numpang\Ligita\bin\DevExpress.Web.ASPxGridView.v7.3.xml
+D:\IndraWS\numpang\Ligita\obj\Debug\ResolveAssemblyReference.cache
+D:\IndraWS\numpang\Ligita\obj\Debug\Ligita.Resources.resources
+D:\IndraWS\numpang\Ligita\obj\Debug\Ligita.vbproj.GenerateResource.Cache
+D:\IndraWS\numpang\Ligita\obj\Debug\Ligita.dll
+D:\IndraWS\numpang\Ligita\obj\Debug\Ligita.xml
+D:\IndraWS\numpang\Ligita\obj\Debug\Ligita.pdb
+D:\Rian\Ligita(02062010)\bin\Ligita.dll
+D:\Rian\Ligita(02062010)\bin\Ligita.pdb
+D:\Rian\Ligita(02062010)\bin\Ligita.xml
+D:\Rian\Ligita(02062010)\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Rian\Ligita(02062010)\bin\CrystalDecisions.ReportSource.dll
+D:\Rian\Ligita(02062010)\bin\CrystalDecisions.Shared.dll
+D:\Rian\Ligita(02062010)\bin\CrystalDecisions.Web.dll
+D:\Rian\Ligita(02062010)\bin\CrystalDecisions.Windows.Forms.dll
+D:\Rian\Ligita(02062010)\bin\DevExpress.Data.v7.3.dll
+D:\Rian\Ligita(02062010)\bin\DevExpress.Web.ASPxEditors.v7.3.dll
+D:\Rian\Ligita(02062010)\bin\DevExpress.Web.ASPxGridView.v7.3.dll
+D:\Rian\Ligita(02062010)\bin\DevExpress.Web.v7.3.dll
+D:\Rian\Ligita(02062010)\bin\System.Configuration.dll
+D:\Rian\Ligita(02062010)\bin\System.Core.dll
+D:\Rian\Ligita(02062010)\bin\System.Data.DataSetExtensions.dll
+D:\Rian\Ligita(02062010)\bin\System.Data.dll
+D:\Rian\Ligita(02062010)\bin\System.dll
+D:\Rian\Ligita(02062010)\bin\System.Drawing.dll
+D:\Rian\Ligita(02062010)\bin\System.EnterpriseServices.dll
+D:\Rian\Ligita(02062010)\bin\System.Web.dll
+D:\Rian\Ligita(02062010)\bin\System.Web.Extensions.dll
+D:\Rian\Ligita(02062010)\bin\System.Web.Mobile.dll
+D:\Rian\Ligita(02062010)\bin\System.Web.Services.dll
+D:\Rian\Ligita(02062010)\bin\System.Xml.dll
+D:\Rian\Ligita(02062010)\bin\System.Xml.Linq.dll
+D:\Rian\Ligita(02062010)\bin\CrystalDecisions.CrystalReports.Engine.xml
+D:\Rian\Ligita(02062010)\bin\CrystalDecisions.Windows.Forms.xml
+D:\Rian\Ligita(02062010)\bin\CrystalDecisions.Web.xml
+D:\Rian\Ligita(02062010)\bin\CrystalDecisions.Shared.xml
+D:\Rian\Ligita(02062010)\bin\DevExpress.Web.ASPxEditors.v7.3.xml
+D:\Rian\Ligita(02062010)\bin\DevExpress.Web.v7.3.xml
+D:\Rian\Ligita(02062010)\bin\CrystalDecisions.ReportSource.xml
+D:\Rian\Ligita(02062010)\bin\DevExpress.Data.v7.3.xml
+D:\Rian\Ligita(02062010)\bin\DevExpress.Web.ASPxGridView.v7.3.xml
+D:\Rian\Ligita(02062010)\obj\Debug\ResolveAssemblyReference.cache
+D:\Rian\Ligita(02062010)\obj\Debug\Ligita.Resources.resources
+D:\Rian\Ligita(02062010)\obj\Debug\Ligita.vbproj.GenerateResource.Cache
+D:\Rian\Ligita(02062010)\obj\Debug\Ligita.dll
+D:\Rian\Ligita(02062010)\obj\Debug\Ligita.xml
+D:\Rian\Ligita(02062010)\obj\Debug\Ligita.pdb
+D:\Rian\Ligita(19072010)\obj\Debug\ResolveAssemblyReference.cache
+D:\Rian\Ligita(19072010)\obj\Debug\Ligita.Resources.resources
+D:\Rian\Ligita(19072010)\obj\Debug\Ligita.vbproj.GenerateResource.Cache
+D:\Rian\Ligita(19072010)\obj\Debug\Ligita.dll
+D:\Rian\Ligita(19072010)\obj\Debug\Ligita.xml
+D:\Rian\Ligita(19072010)\obj\Debug\Ligita.pdb
+D:\Rian\Ligita(19072010)\bin\Ligita.dll
+D:\Rian\Ligita(19072010)\bin\Ligita.pdb
+D:\Rian\Ligita(19072010)\bin\Ligita.xml
+D:\Rian\Ligita(19072010)\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Rian\Ligita(19072010)\bin\CrystalDecisions.ReportSource.dll
+D:\Rian\Ligita(19072010)\bin\CrystalDecisions.Shared.dll
+D:\Rian\Ligita(19072010)\bin\CrystalDecisions.Web.dll
+D:\Rian\Ligita(19072010)\bin\CrystalDecisions.Windows.Forms.dll
+D:\Rian\Ligita(19072010)\bin\DevExpress.Data.v7.3.dll
+D:\Rian\Ligita(19072010)\bin\DevExpress.Web.ASPxEditors.v7.3.dll
+D:\Rian\Ligita(19072010)\bin\DevExpress.Web.ASPxGridView.v7.3.dll
+D:\Rian\Ligita(19072010)\bin\DevExpress.Web.v7.3.dll
+D:\Rian\Ligita(19072010)\bin\System.Configuration.dll
+D:\Rian\Ligita(19072010)\bin\System.Core.dll
+D:\Rian\Ligita(19072010)\bin\System.Data.DataSetExtensions.dll
+D:\Rian\Ligita(19072010)\bin\System.Data.dll
+D:\Rian\Ligita(19072010)\bin\System.dll
+D:\Rian\Ligita(19072010)\bin\System.Drawing.dll
+D:\Rian\Ligita(19072010)\bin\System.EnterpriseServices.dll
+D:\Rian\Ligita(19072010)\bin\System.Web.dll
+D:\Rian\Ligita(19072010)\bin\System.Web.Extensions.dll
+D:\Rian\Ligita(19072010)\bin\System.Web.Mobile.dll
+D:\Rian\Ligita(19072010)\bin\System.Web.Services.dll
+D:\Rian\Ligita(19072010)\bin\System.Xml.dll
+D:\Rian\Ligita(19072010)\bin\System.Xml.Linq.dll
+D:\Rian\Ligita(19072010)\bin\CrystalDecisions.CrystalReports.Engine.xml
+D:\Rian\Ligita(19072010)\bin\CrystalDecisions.Windows.Forms.xml
+D:\Rian\Ligita(19072010)\bin\CrystalDecisions.Web.xml
+D:\Rian\Ligita(19072010)\bin\CrystalDecisions.Shared.xml
+D:\Rian\Ligita(19072010)\bin\DevExpress.Web.ASPxEditors.v7.3.xml
+D:\Rian\Ligita(19072010)\bin\DevExpress.Web.v7.3.xml
+D:\Rian\Ligita(19072010)\bin\CrystalDecisions.ReportSource.xml
+D:\Rian\Ligita(19072010)\bin\DevExpress.Data.v7.3.xml
+D:\Rian\Ligita(19072010)\bin\DevExpress.Web.ASPxGridView.v7.3.xml
+D:\Rian\Ligita(26072010)\bin\Ligita.dll
+D:\Rian\Ligita(26072010)\bin\Ligita.pdb
+D:\Rian\Ligita(26072010)\bin\Ligita.xml
+D:\Rian\Ligita(26072010)\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Rian\Ligita(26072010)\bin\CrystalDecisions.ReportSource.dll
+D:\Rian\Ligita(26072010)\bin\CrystalDecisions.Shared.dll
+D:\Rian\Ligita(26072010)\bin\CrystalDecisions.Web.dll
+D:\Rian\Ligita(26072010)\bin\CrystalDecisions.Windows.Forms.dll
+D:\Rian\Ligita(26072010)\bin\System.Configuration.dll
+D:\Rian\Ligita(26072010)\bin\System.Core.dll
+D:\Rian\Ligita(26072010)\bin\System.Data.DataSetExtensions.dll
+D:\Rian\Ligita(26072010)\bin\System.Data.dll
+D:\Rian\Ligita(26072010)\bin\System.dll
+D:\Rian\Ligita(26072010)\bin\System.Drawing.dll
+D:\Rian\Ligita(26072010)\bin\System.EnterpriseServices.dll
+D:\Rian\Ligita(26072010)\bin\System.Web.dll
+D:\Rian\Ligita(26072010)\bin\System.Web.Extensions.dll
+D:\Rian\Ligita(26072010)\bin\System.Web.Mobile.dll
+D:\Rian\Ligita(26072010)\bin\System.Web.Services.dll
+D:\Rian\Ligita(26072010)\bin\System.Xml.dll
+D:\Rian\Ligita(26072010)\bin\System.Xml.Linq.dll
+D:\Rian\Ligita(26072010)\bin\CrystalDecisions.CrystalReports.Engine.xml
+D:\Rian\Ligita(26072010)\bin\CrystalDecisions.Windows.Forms.xml
+D:\Rian\Ligita(26072010)\bin\CrystalDecisions.Web.xml
+D:\Rian\Ligita(26072010)\bin\CrystalDecisions.Shared.xml
+D:\Rian\Ligita(26072010)\bin\DevExpress.Web.ASPxEditors.v7.3.xml
+D:\Rian\Ligita(26072010)\bin\DevExpress.Web.v7.3.xml
+D:\Rian\Ligita(26072010)\bin\CrystalDecisions.ReportSource.xml
+D:\Rian\Ligita(26072010)\bin\DevExpress.Data.v7.3.xml
+D:\Rian\Ligita(26072010)\bin\DevExpress.Web.ASPxGridView.v7.3.xml
+D:\Rian\Ligita(26072010)\obj\Debug\ResolveAssemblyReference.cache
+D:\Rian\Ligita(26072010)\obj\Debug\Ligita.Resources.resources
+D:\Rian\Ligita(26072010)\obj\Debug\Ligita.vbproj.GenerateResource.Cache
+D:\Rian\Ligita(26072010)\obj\Debug\Ligita.dll
+D:\Rian\Ligita(26072010)\obj\Debug\Ligita.xml
+D:\Rian\Ligita(26072010)\obj\Debug\Ligita.pdb
+D:\Rian\Ligita(26072010)\bin\DevExpress.Data.v7.3.dll
+D:\Rian\Ligita(26072010)\bin\DevExpress.Web.ASPxEditors.v7.3.dll
+D:\Rian\Ligita(26072010)\bin\DevExpress.Web.ASPxGridView.v7.3.dll
+D:\Rian\Ligita(26072010)\bin\DevExpress.Web.v7.3.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\Ligita.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\Ligita.pdb
+D:\Rian\Ligita(26 Agustus 2010)\bin\Ligita.xml
+D:\Rian\Ligita(26 Agustus 2010)\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\CrystalDecisions.ReportSource.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\CrystalDecisions.Shared.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\CrystalDecisions.Web.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\CrystalDecisions.Windows.Forms.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\DevExpress.Data.v7.3.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\DevExpress.Web.ASPxEditors.v7.3.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\DevExpress.Web.ASPxGridView.v7.3.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\DevExpress.Web.v7.3.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\System.Configuration.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\System.Core.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\System.Data.DataSetExtensions.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\System.Data.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\System.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\System.Drawing.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\System.EnterpriseServices.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\System.Web.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\System.Web.Extensions.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\System.Web.Mobile.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\System.Web.Services.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\System.Xml.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\System.Xml.Linq.dll
+D:\Rian\Ligita(26 Agustus 2010)\bin\CrystalDecisions.CrystalReports.Engine.xml
+D:\Rian\Ligita(26 Agustus 2010)\bin\CrystalDecisions.Windows.Forms.xml
+D:\Rian\Ligita(26 Agustus 2010)\bin\CrystalDecisions.Web.xml
+D:\Rian\Ligita(26 Agustus 2010)\bin\CrystalDecisions.Shared.xml
+D:\Rian\Ligita(26 Agustus 2010)\bin\DevExpress.Web.ASPxEditors.v7.3.xml
+D:\Rian\Ligita(26 Agustus 2010)\bin\DevExpress.Web.v7.3.xml
+D:\Rian\Ligita(26 Agustus 2010)\bin\CrystalDecisions.ReportSource.xml
+D:\Rian\Ligita(26 Agustus 2010)\bin\DevExpress.Data.v7.3.xml
+D:\Rian\Ligita(26 Agustus 2010)\bin\DevExpress.Web.ASPxGridView.v7.3.xml
+D:\Rian\Ligita(26 Agustus 2010)\obj\Debug\ResolveAssemblyReference.cache
+D:\Rian\Ligita(26 Agustus 2010)\obj\Debug\Ligita.Resources.resources
+D:\Rian\Ligita(26 Agustus 2010)\obj\Debug\Ligita.vbproj.GenerateResource.Cache
+D:\Rian\Ligita(26 Agustus 2010)\obj\Debug\Ligita.dll
+D:\Rian\Ligita(26 Agustus 2010)\obj\Debug\Ligita.xml
+D:\Rian\Ligita(26 Agustus 2010)\obj\Debug\Ligita.pdb
+D:\Rian\Ligita(21 September 2010)\bin\Ligita.dll
+D:\Rian\Ligita(21 September 2010)\bin\Ligita.pdb
+D:\Rian\Ligita(21 September 2010)\bin\Ligita.xml
+D:\Rian\Ligita(21 September 2010)\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Rian\Ligita(21 September 2010)\bin\CrystalDecisions.ReportSource.dll
+D:\Rian\Ligita(21 September 2010)\bin\CrystalDecisions.Shared.dll
+D:\Rian\Ligita(21 September 2010)\bin\CrystalDecisions.Web.dll
+D:\Rian\Ligita(21 September 2010)\bin\CrystalDecisions.Windows.Forms.dll
+D:\Rian\Ligita(21 September 2010)\bin\DevExpress.Data.v7.3.dll
+D:\Rian\Ligita(21 September 2010)\bin\DevExpress.Web.ASPxEditors.v7.3.dll
+D:\Rian\Ligita(21 September 2010)\bin\DevExpress.Web.ASPxGridView.v7.3.dll
+D:\Rian\Ligita(21 September 2010)\bin\DevExpress.Web.v7.3.dll
+D:\Rian\Ligita(21 September 2010)\bin\System.Configuration.dll
+D:\Rian\Ligita(21 September 2010)\bin\System.Core.dll
+D:\Rian\Ligita(21 September 2010)\bin\System.Data.DataSetExtensions.dll
+D:\Rian\Ligita(21 September 2010)\bin\System.Data.dll
+D:\Rian\Ligita(21 September 2010)\bin\System.dll
+D:\Rian\Ligita(21 September 2010)\bin\System.Drawing.dll
+D:\Rian\Ligita(21 September 2010)\bin\System.EnterpriseServices.dll
+D:\Rian\Ligita(21 September 2010)\bin\System.Web.dll
+D:\Rian\Ligita(21 September 2010)\bin\System.Web.Extensions.dll
+D:\Rian\Ligita(21 September 2010)\bin\System.Web.Mobile.dll
+D:\Rian\Ligita(21 September 2010)\bin\System.Web.Services.dll
+D:\Rian\Ligita(21 September 2010)\bin\System.Xml.dll
+D:\Rian\Ligita(21 September 2010)\bin\System.Xml.Linq.dll
+D:\Rian\Ligita(21 September 2010)\bin\CrystalDecisions.CrystalReports.Engine.xml
+D:\Rian\Ligita(21 September 2010)\bin\CrystalDecisions.Windows.Forms.xml
+D:\Rian\Ligita(21 September 2010)\bin\CrystalDecisions.Web.xml
+D:\Rian\Ligita(21 September 2010)\bin\CrystalDecisions.Shared.xml
+D:\Rian\Ligita(21 September 2010)\bin\DevExpress.Web.ASPxEditors.v7.3.xml
+D:\Rian\Ligita(21 September 2010)\bin\DevExpress.Web.v7.3.xml
+D:\Rian\Ligita(21 September 2010)\bin\CrystalDecisions.ReportSource.xml
+D:\Rian\Ligita(21 September 2010)\bin\DevExpress.Data.v7.3.xml
+D:\Rian\Ligita(21 September 2010)\bin\DevExpress.Web.ASPxGridView.v7.3.xml
+D:\Rian\Ligita(21 September 2010)\obj\Debug\ResolveAssemblyReference.cache
+D:\Rian\Ligita(21 September 2010)\obj\Debug\Ligita.Resources.resources
+D:\Rian\Ligita(21 September 2010)\obj\Debug\Ligita.vbproj.GenerateResource.Cache
+D:\Rian\Ligita(21 September 2010)\obj\Debug\Ligita.dll
+D:\Rian\Ligita(21 September 2010)\obj\Debug\Ligita.xml
+D:\Rian\Ligita(21 September 2010)\obj\Debug\Ligita.pdb
+D:\Rian\Ligita(08 Maret 2011)\obj\Debug\ResolveAssemblyReference.cache
+D:\Rian\Ligita(08 Maret 2011)\obj\Debug\Ligita.Resources.resources
+D:\Rian\Ligita(08 Maret 2011)\obj\Debug\Ligita.vbproj.GenerateResource.Cache
+D:\Rian\Ligita(08 Maret 2011)\obj\Debug\Ligita.dll
+D:\Rian\Ligita(08 Maret 2011)\obj\Debug\Ligita.xml
+D:\Rian\Ligita(08 Maret 2011)\obj\Debug\Ligita.pdb
+D:\Rian\Ligita(08 Maret 2011)\bin\Ligita.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\Ligita.pdb
+D:\Rian\Ligita(08 Maret 2011)\bin\Ligita.xml
+D:\Rian\Ligita(08 Maret 2011)\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\CrystalDecisions.Enterprise.Framework.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\CrystalDecisions.Enterprise.InfoStore.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\CrystalDecisions.ReportSource.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\CrystalDecisions.Shared.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\CrystalDecisions.Web.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\CrystalDecisions.Windows.Forms.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\DevExpress.Data.v7.3.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\DevExpress.Web.ASPxEditors.v7.3.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\DevExpress.Web.ASPxGridView.v7.3.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\DevExpress.Web.v7.3.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\System.Configuration.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\System.Core.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\System.Data.DataSetExtensions.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\System.Data.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\System.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\System.Drawing.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\System.EnterpriseServices.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\System.Web.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\System.Web.Extensions.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\System.Web.Mobile.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\System.Web.Services.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\System.Xml.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\System.Xml.Linq.dll
+D:\Rian\Ligita(08 Maret 2011)\bin\CrystalDecisions.CrystalReports.Engine.xml
+D:\Rian\Ligita(08 Maret 2011)\bin\CrystalDecisions.Windows.Forms.xml
+D:\Rian\Ligita(08 Maret 2011)\bin\CrystalDecisions.Web.xml
+D:\Rian\Ligita(08 Maret 2011)\bin\CrystalDecisions.Shared.xml
+D:\Rian\Ligita(08 Maret 2011)\bin\DevExpress.Web.ASPxEditors.v7.3.xml
+D:\Rian\Ligita(08 Maret 2011)\bin\DevExpress.Web.v7.3.xml
+D:\Rian\Ligita(08 Maret 2011)\bin\CrystalDecisions.ReportSource.xml
+D:\Rian\Ligita(08 Maret 2011)\bin\DevExpress.Data.v7.3.xml
+D:\Rian\Ligita(08 Maret 2011)\bin\DevExpress.Web.ASPxGridView.v7.3.xml

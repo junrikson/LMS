@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSPembayaranMemo" targetNamespace="http://tempuri.org/DSPembayaranMemo.xsd" xmlns:mstns="http://tempuri.org/DSPembayaranMemo.xsd" xmlns="http://tempuri.org/DSPembayaranMemo.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSPembayaranMemo" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSPembayaranMemo" msprop:Generator_DataSetName="DSPembayaranMemo" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PembayaranMemo" msprop:Generator_UserTableName="PembayaranMemo" msprop:Generator_RowDeletedName="PembayaranMemoRowDeleted" msprop:Generator_RowChangedName="PembayaranMemoRowChanged" msprop:Generator_RowClassName="PembayaranMemoRow" msprop:Generator_RowChangingName="PembayaranMemoRowChanging" msprop:Generator_RowEvArgName="PembayaranMemoRowChangeEvent" msprop:Generator_RowEvHandlerName="PembayaranMemoRowChangeEventHandler" msprop:Generator_TableClassName="PembayaranMemoDataTable" msprop:Generator_TableVarName="tablePembayaranMemo" msprop:Generator_RowDeletingName="PembayaranMemoRowDeleting" msprop:Generator_TablePropName="PembayaranMemo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AccCode" msprop:Generator_UserColumnName="AccCode" msprop:Generator_ColumnPropNameInRow="AccCode" msprop:Generator_ColumnVarNameInTable="columnAccCode" msprop:Generator_ColumnPropNameInTable="AccCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Tanggal" msprop:Generator_UserColumnName="Tanggal" msprop:Generator_ColumnPropNameInRow="Tanggal" msprop:Generator_ColumnVarNameInTable="columnTanggal" msprop:Generator_ColumnPropNameInTable="TanggalColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="CreditAmount" msprop:Generator_UserColumnName="CreditAmount" msprop:Generator_ColumnPropNameInRow="CreditAmount" msprop:Generator_ColumnVarNameInTable="columnCreditAmount" msprop:Generator_ColumnPropNameInTable="CreditAmountColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Description" msprop:Generator_UserColumnName="Description" msprop:Generator_ColumnPropNameInRow="Description" msprop:Generator_ColumnVarNameInTable="columnDescription" msprop:Generator_ColumnPropNameInTable="DescriptionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DorC" msprop:Generator_UserColumnName="DorC" msprop:Generator_ColumnPropNameInRow="DorC" msprop:Generator_ColumnVarNameInTable="columnDorC" msprop:Generator_ColumnPropNameInTable="DorCColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DebitAmount" msprop:Generator_UserColumnName="DebitAmount" msprop:Generator_ColumnPropNameInRow="DebitAmount" msprop:Generator_ColumnVarNameInTable="columnDebitAmount" msprop:Generator_ColumnPropNameInTable="DebitAmountColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

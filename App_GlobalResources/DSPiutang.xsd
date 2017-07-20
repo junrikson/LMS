@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSPiutang" targetNamespace="http://tempuri.org/DSPiutang.xsd" xmlns:mstns="http://tempuri.org/DSPiutang.xsd" xmlns="http://tempuri.org/DSPiutang.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSPiutang" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DSPiutang" msprop:Generator_UserDSName="DSPiutang" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Piutang" msprop:Generator_UserTableName="Piutang" msprop:Generator_RowDeletedName="PiutangRowDeleted" msprop:Generator_TableClassName="PiutangDataTable" msprop:Generator_RowChangedName="PiutangRowChanged" msprop:Generator_RowClassName="PiutangRow" msprop:Generator_RowChangingName="PiutangRowChanging" msprop:Generator_RowEvArgName="PiutangRowChangeEvent" msprop:Generator_RowEvHandlerName="PiutangRowChangeEventHandler" msprop:Generator_TablePropName="Piutang" msprop:Generator_TableVarName="tablePiutang" msprop:Generator_RowDeletingName="PiutangRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="No_Invoice" msprop:Generator_UserColumnName="No_Invoice" msprop:Generator_ColumnPropNameInRow="No_Invoice" msprop:Generator_ColumnVarNameInTable="columnNo_Invoice" msprop:Generator_ColumnPropNameInTable="No_InvoiceColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="InvoiceDate" msprop:Generator_UserColumnName="InvoiceDate" msprop:Generator_ColumnPropNameInRow="InvoiceDate" msprop:Generator_ColumnVarNameInTable="columnInvoiceDate" msprop:Generator_ColumnPropNameInTable="InvoiceDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Ditujukan" msprop:Generator_UserColumnName="Ditujukan" msprop:Generator_ColumnPropNameInRow="Ditujukan" msprop:Generator_ColumnVarNameInTable="columnDitujukan" msprop:Generator_ColumnPropNameInTable="DitujukanColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_UserColumnName="Total" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInTable="TotalColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Kredit" msprop:Generator_UserColumnName="Kredit" msprop:Generator_ColumnPropNameInRow="Kredit" msprop:Generator_ColumnVarNameInTable="columnKredit" msprop:Generator_ColumnPropNameInTable="KreditColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

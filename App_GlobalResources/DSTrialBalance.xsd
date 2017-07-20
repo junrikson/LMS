@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSTrialBalance" targetNamespace="http://tempuri.org/DSTrialBalance.xsd" xmlns:mstns="http://tempuri.org/DSTrialBalance.xsd" xmlns="http://tempuri.org/DSTrialBalance.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSTrialBalance" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DSTrialBalance" msprop:Generator_UserDSName="DSTrialBalance" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TrialBalance" msprop:Generator_UserTableName="TrialBalance" msprop:Generator_RowDeletedName="TrialBalanceRowDeleted" msprop:Generator_TableClassName="TrialBalanceDataTable" msprop:Generator_RowChangedName="TrialBalanceRowChanged" msprop:Generator_RowClassName="TrialBalanceRow" msprop:Generator_RowChangingName="TrialBalanceRowChanging" msprop:Generator_RowEvArgName="TrialBalanceRowChangeEvent" msprop:Generator_RowEvHandlerName="TrialBalanceRowChangeEventHandler" msprop:Generator_TablePropName="TrialBalance" msprop:Generator_TableVarName="tableTrialBalance" msprop:Generator_RowDeletingName="TrialBalanceRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AccCode" msprop:Generator_UserColumnName="AccCode" msprop:Generator_ColumnPropNameInRow="AccCode" msprop:Generator_ColumnVarNameInTable="columnAccCode" msprop:Generator_ColumnPropNameInTable="AccCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="AccountName" msprop:Generator_UserColumnName="AccountName" msprop:Generator_ColumnPropNameInRow="AccountName" msprop:Generator_ColumnVarNameInTable="columnAccountName" msprop:Generator_ColumnPropNameInTable="AccountNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="StartingBalance" msprop:Generator_UserColumnName="StartingBalance" msprop:Generator_ColumnPropNameInRow="StartingBalance" msprop:Generator_ColumnVarNameInTable="columnStartingBalance" msprop:Generator_ColumnPropNameInTable="StartingBalanceColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="DebitCurrentMonth" msprop:Generator_UserColumnName="DebitCurrentMonth" msprop:Generator_ColumnPropNameInRow="DebitCurrentMonth" msprop:Generator_ColumnVarNameInTable="columnDebitCurrentMonth" msprop:Generator_ColumnPropNameInTable="DebitCurrentMonthColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="CreditCurrentMonth" msprop:Generator_UserColumnName="CreditCurrentMonth" msprop:Generator_ColumnPropNameInRow="CreditCurrentMonth" msprop:Generator_ColumnVarNameInTable="columnCreditCurrentMonth" msprop:Generator_ColumnPropNameInTable="CreditCurrentMonthColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="EndingBalance" msprop:Generator_UserColumnName="EndingBalance" msprop:Generator_ColumnPropNameInRow="EndingBalance" msprop:Generator_ColumnVarNameInTable="columnEndingBalance" msprop:Generator_ColumnPropNameInTable="EndingBalanceColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

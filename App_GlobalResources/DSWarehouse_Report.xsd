@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSWarehouse_Report" targetNamespace="http://tempuri.org/DSWarehouse_Report.xsd" xmlns:mstns="http://tempuri.org/DSWarehouse_Report.xsd" xmlns="http://tempuri.org/DSWarehouse_Report.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSWarehouse_Report" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DSWarehouse_Report" msprop:Generator_UserDSName="DSWarehouse_Report" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Gudang" msprop:Generator_UserTableName="Gudang" msprop:Generator_RowDeletedName="GudangRowDeleted" msprop:Generator_TableClassName="GudangDataTable" msprop:Generator_RowChangedName="GudangRowChanged" msprop:Generator_RowClassName="GudangRow" msprop:Generator_RowChangingName="GudangRowChanging" msprop:Generator_RowEvArgName="GudangRowChangeEvent" msprop:Generator_RowEvHandlerName="GudangRowChangeEventHandler" msprop:Generator_TablePropName="Gudang" msprop:Generator_TableVarName="tableGudang" msprop:Generator_RowDeletingName="GudangRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Warehouse_Name" msprop:Generator_UserColumnName="Warehouse_Name" msprop:Generator_ColumnPropNameInRow="Warehouse_Name" msprop:Generator_ColumnVarNameInTable="columnWarehouse_Name" msprop:Generator_ColumnPropNameInTable="Warehouse_NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Nama_Barang" msprop:Generator_UserColumnName="Nama_Barang" msprop:Generator_ColumnPropNameInRow="Nama_Barang" msprop:Generator_ColumnVarNameInTable="columnNama_Barang" msprop:Generator_ColumnPropNameInTable="Nama_BarangColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MERK" msprop:Generator_UserColumnName="MERK" msprop:Generator_ColumnPropNameInRow="MERK" msprop:Generator_ColumnVarNameInTable="columnMERK" msprop:Generator_ColumnPropNameInTable="MERKColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Berat" msprop:Generator_UserColumnName="Berat" msprop:Generator_ColumnPropNameInRow="Berat" msprop:Generator_ColumnVarNameInTable="columnBerat" msprop:Generator_ColumnPropNameInTable="BeratColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Panjang" msprop:Generator_UserColumnName="Panjang" msprop:Generator_ColumnPropNameInRow="Panjang" msprop:Generator_ColumnVarNameInTable="columnPanjang" msprop:Generator_ColumnPropNameInTable="PanjangColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Lebar" msprop:Generator_UserColumnName="Lebar" msprop:Generator_ColumnPropNameInRow="Lebar" msprop:Generator_ColumnVarNameInTable="columnLebar" msprop:Generator_ColumnPropNameInTable="LebarColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Tinggi" msprop:Generator_UserColumnName="Tinggi" msprop:Generator_ColumnPropNameInRow="Tinggi" msprop:Generator_ColumnVarNameInTable="columnTinggi" msprop:Generator_ColumnPropNameInTable="TinggiColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Unit" msprop:Generator_UserColumnName="Unit" msprop:Generator_ColumnPropNameInRow="Unit" msprop:Generator_ColumnVarNameInTable="columnUnit" msprop:Generator_ColumnPropNameInTable="UnitColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Others" msprop:Generator_UserColumnName="Others" msprop:Generator_ColumnPropNameInRow="Others" msprop:Generator_ColumnVarNameInTable="columnOthers" msprop:Generator_ColumnPropNameInTable="OthersColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Time_Itemcome" msprop:Generator_UserColumnName="Time_Itemcome" msprop:Generator_ColumnPropNameInRow="Time_Itemcome" msprop:Generator_ColumnVarNameInTable="columnTime_Itemcome" msprop:Generator_ColumnPropNameInTable="Time_ItemcomeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Warehouse_Code" msprop:Generator_UserColumnName="Warehouse_Code" msprop:Generator_ColumnPropNameInRow="Warehouse_Code" msprop:Generator_ColumnVarNameInTable="columnWarehouse_Code" msprop:Generator_ColumnPropNameInTable="Warehouse_CodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Nama_Customer" msprop:Generator_UserColumnName="Nama_Customer" msprop:Generator_ColumnPropNameInRow="Nama_Customer" msprop:Generator_ColumnVarNameInTable="columnNama_Customer" msprop:Generator_ColumnPropNameInTable="Nama_CustomerColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Penerima" msprop:Generator_UserColumnName="Penerima" msprop:Generator_ColumnPropNameInRow="Penerima" msprop:Generator_ColumnVarNameInTable="columnPenerima" msprop:Generator_ColumnPropNameInTable="PenerimaColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

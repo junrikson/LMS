@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSSubLedgerPiutang" targetNamespace="http://tempuri.org/DSSubLedgerPiutang.xsd" xmlns:mstns="http://tempuri.org/DSSubLedgerPiutang.xsd" xmlns="http://tempuri.org/DSSubLedgerPiutang.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSSubLedgerPiutang" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSSubLedgerPiutang" msprop:Generator_DataSetName="DSSubLedgerPiutang" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SubLedgerPiutang" msprop:Generator_UserTableName="SubLedgerPiutang" msprop:Generator_RowDeletedName="SubLedgerPiutangRowDeleted" msprop:Generator_RowChangedName="SubLedgerPiutangRowChanged" msprop:Generator_RowClassName="SubLedgerPiutangRow" msprop:Generator_RowChangingName="SubLedgerPiutangRowChanging" msprop:Generator_RowEvArgName="SubLedgerPiutangRowChangeEvent" msprop:Generator_RowEvHandlerName="SubLedgerPiutangRowChangeEventHandler" msprop:Generator_TableClassName="SubLedgerPiutangDataTable" msprop:Generator_TableVarName="tableSubLedgerPiutang" msprop:Generator_RowDeletingName="SubLedgerPiutangRowDeleting" msprop:Generator_TablePropName="SubLedgerPiutang">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="No_Invoice" msprop:Generator_UserColumnName="No_Invoice" msprop:Generator_ColumnVarNameInTable="columnNo_Invoice" msprop:Generator_ColumnPropNameInRow="No_Invoice" msprop:Generator_ColumnPropNameInTable="No_InvoiceColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="InvoiceDate" msprop:Generator_UserColumnName="InvoiceDate" msprop:Generator_ColumnVarNameInTable="columnInvoiceDate" msprop:Generator_ColumnPropNameInRow="InvoiceDate" msprop:Generator_ColumnPropNameInTable="InvoiceDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Ditujukan" msprop:Generator_UserColumnName="Ditujukan" msprop:Generator_ColumnVarNameInTable="columnDitujukan" msprop:Generator_ColumnPropNameInRow="Ditujukan" msprop:Generator_ColumnPropNameInTable="DitujukanColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Description" msprop:Generator_UserColumnName="Description" msprop:Generator_ColumnVarNameInTable="columnDescription" msprop:Generator_ColumnPropNameInRow="Description" msprop:Generator_ColumnPropNameInTable="DescriptionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_UserColumnName="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnPropNameInTable="TotalColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Kredit" msprop:Generator_UserColumnName="Kredit" msprop:Generator_ColumnVarNameInTable="columnKredit" msprop:Generator_ColumnPropNameInRow="Kredit" msprop:Generator_ColumnPropNameInTable="KreditColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="SaldoDebet" msprop:Generator_UserColumnName="SaldoDebet" msprop:Generator_ColumnVarNameInTable="columnSaldoDebet" msprop:Generator_ColumnPropNameInRow="SaldoDebet" msprop:Generator_ColumnPropNameInTable="SaldoDebetColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="SaldoKredit" msprop:Generator_UserColumnName="SaldoKredit" msprop:Generator_ColumnPropNameInRow="SaldoKredit" msprop:Generator_ColumnVarNameInTable="columnSaldoKredit" msprop:Generator_ColumnPropNameInTable="SaldoKreditColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Selisih" msprop:Generator_UserColumnName="Selisih" msprop:Generator_ColumnVarNameInTable="columnSelisih" msprop:Generator_ColumnPropNameInRow="Selisih" msprop:Generator_ColumnPropNameInTable="SelisihColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

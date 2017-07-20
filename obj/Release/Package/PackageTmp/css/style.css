@@ -1,0 +1,120 @@
+﻿/*
+.textbox_1 {
+font-family:Arial, Trebuchet MS, Verdana;
+background-color: white;
+border: Solid 1px #465946;
+font-size: 10pt;
+padding: 1px 2px;
+} */
+.header {background-image:url('../images/header_bg.gif');background-repeat:repeat-x;
+    width: 625px;
+}
+.mainmenu {background-color:#D3D3D3;font-family:Trebuchet MS; font-size:12px; margin:auto;}
+.mainmenu #title {padding:2px 0px 1px 10px; width:100%;}
+.mainmenu #folder {padding:2px 0px 1px 10px; width:100%;}
+.mainmenu #tree {padding:0 0 0 5px;}
+
+.content {background-color:#ccddff;}
+
+.textbox_1 
+{
+    border:solid 1px #b8b9b1; 
+    background-color:#d8e9c7;
+    width : 150px;
+}
+.ddl_1 {border:solid 1px #b8b9b1;}
+
+.divmenu 
+{
+   position  : absolute;
+   right: 0;
+   width: 50%;	
+}
+.divmenu a {text-decoration:none; color:#000;}
+.divmenu a:hover {color:#bed1a3;}
+
+.gmenu {
+    width: 235px;
+}
+.gmenu a {text-decoration:none; color :#000;}
+.gmenu a {background-color:#D3D3D3;}
+.gmenu a:hover {color:blue; }
+.gmenu a {float :none ; font-family : Trebuchet MS ; font-size :small }
+
+
+.table
+{
+    border : 1px solid #FFFFFF;    
+}
+
+.Divutama
+{
+ 
+    
+    padding:5px 20px 20px 20px;
+    
+}
+
+.div_input
+{
+    background-color:#FFFFFF;    
+}
+
+.div_input2
+{
+    background-color:#FFFFFF;   
+    padding-left:10px; 
+    padding-top:10px;  
+    padding-bottom:10px;  
+    padding-right : 10px;
+    width : 110%;
+}
+
+.div_umum
+{
+    padding-left:10px; 
+    padding-top:10px;  
+    padding-bottom:10px;  
+    padding-right : 10px;
+    
+}
+
+.div_umum2
+{
+    padding-left:0px; 
+    padding-top:10px;  
+    padding-bottom:10px;  
+    padding-right : 10px;
+}
+
+
+.gambar
+{
+    background-image:url('images/body-bgpng.png'); 
+    background-repeat:repeat;    
+}
+.trHeader_Olive {
+	background-color:#EDF2D4;
+	text-align:left;
+}
+.btn{
+	border-style: solid;
+    border-color: inherit;
+    border-width: 1px;
+    font-family:verdana;
+	font-size:11px;
+    width: 129px;
+}
+
+.borderdot
+{
+    /*border: 2px dotted #D3D3D3; */
+    border: 2px dotted #000000;
+    width : 100%;
+}
+
+.divtengah
+{
+  text-align : center;
+  width : 100%;
+}

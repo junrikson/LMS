@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSItem" targetNamespace="http://tempuri.org/DSItem.xsd" xmlns:mstns="http://tempuri.org/DSItem.xsd" xmlns="http://tempuri.org/DSItem.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSItem" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DSItem" msprop:Generator_UserDSName="DSItem" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ItemReport" msprop:Generator_UserTableName="ItemReport" msprop:Generator_RowDeletedName="ItemReportRowDeleted" msprop:Generator_TableClassName="ItemReportDataTable" msprop:Generator_RowChangedName="ItemReportRowChanged" msprop:Generator_RowClassName="ItemReportRow" msprop:Generator_RowChangingName="ItemReportRowChanging" msprop:Generator_RowEvArgName="ItemReportRowChangeEvent" msprop:Generator_RowEvHandlerName="ItemReportRowChangeEventHandler" msprop:Generator_TablePropName="ItemReport" msprop:Generator_TableVarName="tableItemReport" msprop:Generator_RowDeletingName="ItemReportRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Nama_Barang" msprop:Generator_UserColumnName="Nama_Barang" msprop:Generator_ColumnPropNameInRow="Nama_Barang" msprop:Generator_ColumnVarNameInTable="columnNama_Barang" msprop:Generator_ColumnPropNameInTable="Nama_BarangColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Nama_Customer" msprop:Generator_UserColumnName="Nama_Customer" msprop:Generator_ColumnPropNameInRow="Nama_Customer" msprop:Generator_ColumnVarNameInTable="columnNama_Customer" msprop:Generator_ColumnPropNameInTable="Nama_CustomerColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Unit" msprop:Generator_UserColumnName="Unit" msprop:Generator_ColumnPropNameInRow="Unit" msprop:Generator_ColumnVarNameInTable="columnUnit" msprop:Generator_ColumnPropNameInTable="UnitColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Berat" msprop:Generator_UserColumnName="Berat" msprop:Generator_ColumnPropNameInRow="Berat" msprop:Generator_ColumnVarNameInTable="columnBerat" msprop:Generator_ColumnPropNameInTable="BeratColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Panjang" msprop:Generator_UserColumnName="Panjang" msprop:Generator_ColumnPropNameInRow="Panjang" msprop:Generator_ColumnVarNameInTable="columnPanjang" msprop:Generator_ColumnPropNameInTable="PanjangColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Lebar" msprop:Generator_UserColumnName="Lebar" msprop:Generator_ColumnPropNameInRow="Lebar" msprop:Generator_ColumnVarNameInTable="columnLebar" msprop:Generator_ColumnPropNameInTable="LebarColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Tinggi" msprop:Generator_UserColumnName="Tinggi" msprop:Generator_ColumnPropNameInRow="Tinggi" msprop:Generator_ColumnVarNameInTable="columnTinggi" msprop:Generator_ColumnPropNameInTable="TinggiColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

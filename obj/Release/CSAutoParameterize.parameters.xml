@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="LigitaConString-Web.config Connection String" description="LigitaConString Connection String used in web.config by the application to access the database." defaultValue="user id=sa;password=123;Persist Security Info=False;Initial Catalog=LMS;Data Source=TS11PC" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Others\\Ekspedisi\\LMS\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LigitaConString']/@connectionString" />
+  </parameter>
+</parameters>

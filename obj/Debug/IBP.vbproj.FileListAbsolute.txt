@@ -1,0 +1,320 @@
+D:\Rian\IBP(24 Sept 2010)\bin\Ligita.dll
+D:\Rian\IBP(24 Sept 2010)\bin\Ligita.pdb
+D:\Rian\IBP(24 Sept 2010)\bin\Ligita.xml
+D:\Rian\IBP(24 Sept 2010)\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Rian\IBP(24 Sept 2010)\bin\CrystalDecisions.ReportSource.dll
+D:\Rian\IBP(24 Sept 2010)\bin\CrystalDecisions.Shared.dll
+D:\Rian\IBP(24 Sept 2010)\bin\CrystalDecisions.Web.dll
+D:\Rian\IBP(24 Sept 2010)\bin\CrystalDecisions.Windows.Forms.dll
+D:\Rian\IBP(24 Sept 2010)\bin\DevExpress.Data.v7.3.dll
+D:\Rian\IBP(24 Sept 2010)\bin\DevExpress.Web.ASPxEditors.v7.3.dll
+D:\Rian\IBP(24 Sept 2010)\bin\DevExpress.Web.ASPxGridView.v7.3.dll
+D:\Rian\IBP(24 Sept 2010)\bin\DevExpress.Web.v7.3.dll
+D:\Rian\IBP(24 Sept 2010)\bin\System.Configuration.dll
+D:\Rian\IBP(24 Sept 2010)\bin\System.Core.dll
+D:\Rian\IBP(24 Sept 2010)\bin\System.Data.DataSetExtensions.dll
+D:\Rian\IBP(24 Sept 2010)\bin\System.Data.dll
+D:\Rian\IBP(24 Sept 2010)\bin\System.dll
+D:\Rian\IBP(24 Sept 2010)\bin\System.Drawing.dll
+D:\Rian\IBP(24 Sept 2010)\bin\System.EnterpriseServices.dll
+D:\Rian\IBP(24 Sept 2010)\bin\System.Web.dll
+D:\Rian\IBP(24 Sept 2010)\bin\System.Web.Extensions.dll
+D:\Rian\IBP(24 Sept 2010)\bin\System.Web.Mobile.dll
+D:\Rian\IBP(24 Sept 2010)\bin\System.Web.Services.dll
+D:\Rian\IBP(24 Sept 2010)\bin\System.Xml.dll
+D:\Rian\IBP(24 Sept 2010)\bin\System.Xml.Linq.dll
+D:\Rian\IBP(24 Sept 2010)\bin\CrystalDecisions.CrystalReports.Engine.xml
+D:\Rian\IBP(24 Sept 2010)\bin\CrystalDecisions.Windows.Forms.xml
+D:\Rian\IBP(24 Sept 2010)\bin\CrystalDecisions.Web.xml
+D:\Rian\IBP(24 Sept 2010)\bin\CrystalDecisions.Shared.xml
+D:\Rian\IBP(24 Sept 2010)\bin\DevExpress.Web.ASPxEditors.v7.3.xml
+D:\Rian\IBP(24 Sept 2010)\bin\DevExpress.Web.v7.3.xml
+D:\Rian\IBP(24 Sept 2010)\bin\CrystalDecisions.ReportSource.xml
+D:\Rian\IBP(24 Sept 2010)\bin\DevExpress.Data.v7.3.xml
+D:\Rian\IBP(24 Sept 2010)\bin\DevExpress.Web.ASPxGridView.v7.3.xml
+D:\Rian\IBP(24 Sept 2010)\obj\Debug\ResolveAssemblyReference.cache
+D:\Rian\IBP(24 Sept 2010)\obj\Debug\Ligita.Resources.resources
+D:\Rian\IBP(24 Sept 2010)\obj\Debug\IBP.vbproj.GenerateResource.Cache
+D:\Rian\IBP(24 Sept 2010)\obj\Debug\Ligita.dll
+D:\Rian\IBP(24 Sept 2010)\obj\Debug\Ligita.xml
+D:\Rian\IBP(24 Sept 2010)\obj\Debug\Ligita.pdb
+D:\Rian\IBP(24 Sept 2010)\bin\CrystalDecisions.Enterprise.Framework.dll
+D:\Rian\IBP(24 Sept 2010)\bin\CrystalDecisions.Enterprise.InfoStore.dll
+D:\Rian\IBP(29 Nov 2010)\bin\Ligita.dll
+D:\Rian\IBP(29 Nov 2010)\bin\Ligita.pdb
+D:\Rian\IBP(29 Nov 2010)\bin\Ligita.xml
+D:\Rian\IBP(29 Nov 2010)\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Rian\IBP(29 Nov 2010)\bin\CrystalDecisions.Enterprise.Framework.dll
+D:\Rian\IBP(29 Nov 2010)\bin\CrystalDecisions.Enterprise.InfoStore.dll
+D:\Rian\IBP(29 Nov 2010)\bin\CrystalDecisions.ReportSource.dll
+D:\Rian\IBP(29 Nov 2010)\bin\CrystalDecisions.Shared.dll
+D:\Rian\IBP(29 Nov 2010)\bin\CrystalDecisions.Web.dll
+D:\Rian\IBP(29 Nov 2010)\bin\CrystalDecisions.Windows.Forms.dll
+D:\Rian\IBP(29 Nov 2010)\bin\DevExpress.Data.v7.3.dll
+D:\Rian\IBP(29 Nov 2010)\bin\DevExpress.Web.ASPxEditors.v7.3.dll
+D:\Rian\IBP(29 Nov 2010)\bin\DevExpress.Web.ASPxGridView.v7.3.dll
+D:\Rian\IBP(29 Nov 2010)\bin\DevExpress.Web.v7.3.dll
+D:\Rian\IBP(29 Nov 2010)\bin\System.Configuration.dll
+D:\Rian\IBP(29 Nov 2010)\bin\System.Core.dll
+D:\Rian\IBP(29 Nov 2010)\bin\System.Data.DataSetExtensions.dll
+D:\Rian\IBP(29 Nov 2010)\bin\System.Data.dll
+D:\Rian\IBP(29 Nov 2010)\bin\System.dll
+D:\Rian\IBP(29 Nov 2010)\bin\System.Drawing.dll
+D:\Rian\IBP(29 Nov 2010)\bin\System.EnterpriseServices.dll
+D:\Rian\IBP(29 Nov 2010)\bin\System.Web.dll
+D:\Rian\IBP(29 Nov 2010)\bin\System.Web.Extensions.dll
+D:\Rian\IBP(29 Nov 2010)\bin\System.Web.Mobile.dll
+D:\Rian\IBP(29 Nov 2010)\bin\System.Web.Services.dll
+D:\Rian\IBP(29 Nov 2010)\bin\System.Xml.dll
+D:\Rian\IBP(29 Nov 2010)\bin\System.Xml.Linq.dll
+D:\Rian\IBP(29 Nov 2010)\bin\CrystalDecisions.CrystalReports.Engine.xml
+D:\Rian\IBP(29 Nov 2010)\bin\CrystalDecisions.Windows.Forms.xml
+D:\Rian\IBP(29 Nov 2010)\bin\CrystalDecisions.Web.xml
+D:\Rian\IBP(29 Nov 2010)\bin\CrystalDecisions.Shared.xml
+D:\Rian\IBP(29 Nov 2010)\bin\DevExpress.Web.ASPxEditors.v7.3.xml
+D:\Rian\IBP(29 Nov 2010)\bin\DevExpress.Web.v7.3.xml
+D:\Rian\IBP(29 Nov 2010)\bin\CrystalDecisions.ReportSource.xml
+D:\Rian\IBP(29 Nov 2010)\bin\DevExpress.Data.v7.3.xml
+D:\Rian\IBP(29 Nov 2010)\bin\DevExpress.Web.ASPxGridView.v7.3.xml
+D:\Rian\IBP(29 Nov 2010)\obj\Debug\ResolveAssemblyReference.cache
+D:\Rian\IBP(29 Nov 2010)\obj\Debug\Ligita.Resources.resources
+D:\Rian\IBP(29 Nov 2010)\obj\Debug\IBP.vbproj.GenerateResource.Cache
+D:\Rian\IBP(29 Nov 2010)\obj\Debug\Ligita.dll
+D:\Rian\IBP(29 Nov 2010)\obj\Debug\Ligita.xml
+D:\Rian\IBP(29 Nov 2010)\obj\Debug\Ligita.pdb
+D:\Rian\IBP(Maret 2011)\bin\Ligita.dll
+D:\Rian\IBP(Maret 2011)\bin\Ligita.pdb
+D:\Rian\IBP(Maret 2011)\bin\Ligita.xml
+D:\Rian\IBP(Maret 2011)\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Rian\IBP(Maret 2011)\bin\CrystalDecisions.Enterprise.Framework.dll
+D:\Rian\IBP(Maret 2011)\bin\CrystalDecisions.Enterprise.InfoStore.dll
+D:\Rian\IBP(Maret 2011)\bin\CrystalDecisions.ReportSource.dll
+D:\Rian\IBP(Maret 2011)\bin\CrystalDecisions.Shared.dll
+D:\Rian\IBP(Maret 2011)\bin\CrystalDecisions.Web.dll
+D:\Rian\IBP(Maret 2011)\bin\CrystalDecisions.Windows.Forms.dll
+D:\Rian\IBP(Maret 2011)\bin\DevExpress.Data.v7.3.dll
+D:\Rian\IBP(Maret 2011)\bin\DevExpress.Web.ASPxEditors.v7.3.dll
+D:\Rian\IBP(Maret 2011)\bin\DevExpress.Web.ASPxGridView.v7.3.dll
+D:\Rian\IBP(Maret 2011)\bin\DevExpress.Web.v7.3.dll
+D:\Rian\IBP(Maret 2011)\bin\System.Configuration.dll
+D:\Rian\IBP(Maret 2011)\bin\System.Core.dll
+D:\Rian\IBP(Maret 2011)\bin\System.Data.DataSetExtensions.dll
+D:\Rian\IBP(Maret 2011)\bin\System.Data.dll
+D:\Rian\IBP(Maret 2011)\bin\System.dll
+D:\Rian\IBP(Maret 2011)\bin\System.Drawing.dll
+D:\Rian\IBP(Maret 2011)\bin\System.EnterpriseServices.dll
+D:\Rian\IBP(Maret 2011)\bin\System.Web.dll
+D:\Rian\IBP(Maret 2011)\bin\System.Web.Extensions.dll
+D:\Rian\IBP(Maret 2011)\bin\System.Web.Mobile.dll
+D:\Rian\IBP(Maret 2011)\bin\System.Web.Services.dll
+D:\Rian\IBP(Maret 2011)\bin\System.Xml.dll
+D:\Rian\IBP(Maret 2011)\bin\System.Xml.Linq.dll
+D:\Rian\IBP(Maret 2011)\bin\CrystalDecisions.CrystalReports.Engine.xml
+D:\Rian\IBP(Maret 2011)\bin\CrystalDecisions.Windows.Forms.xml
+D:\Rian\IBP(Maret 2011)\bin\CrystalDecisions.Web.xml
+D:\Rian\IBP(Maret 2011)\bin\CrystalDecisions.Shared.xml
+D:\Rian\IBP(Maret 2011)\bin\DevExpress.Web.ASPxEditors.v7.3.xml
+D:\Rian\IBP(Maret 2011)\bin\DevExpress.Web.v7.3.xml
+D:\Rian\IBP(Maret 2011)\bin\CrystalDecisions.ReportSource.xml
+D:\Rian\IBP(Maret 2011)\bin\DevExpress.Data.v7.3.xml
+D:\Rian\IBP(Maret 2011)\bin\DevExpress.Web.ASPxGridView.v7.3.xml
+D:\Rian\IBP(Maret 2011)\obj\Debug\ResolveAssemblyReference.cache
+D:\Rian\IBP(Maret 2011)\obj\Debug\Ligita.Resources.resources
+D:\Rian\IBP(Maret 2011)\obj\Debug\IBP.vbproj.GenerateResource.Cache
+D:\Rian\IBP(Maret 2011)\obj\Debug\Ligita.dll
+D:\Rian\IBP(Maret 2011)\obj\Debug\Ligita.xml
+D:\Rian\IBP(Maret 2011)\obj\Debug\Ligita.pdb
+D:\IBP\bin\Ligita.dll
+D:\IBP\bin\Ligita.pdb
+D:\IBP\bin\Ligita.xml
+D:\IBP\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\IBP\bin\CrystalDecisions.Enterprise.Framework.dll
+D:\IBP\bin\CrystalDecisions.Enterprise.InfoStore.dll
+D:\IBP\bin\CrystalDecisions.ReportSource.dll
+D:\IBP\bin\CrystalDecisions.Shared.dll
+D:\IBP\bin\CrystalDecisions.Web.dll
+D:\IBP\bin\CrystalDecisions.Windows.Forms.dll
+D:\IBP\bin\DevExpress.Data.v7.3.dll
+D:\IBP\bin\DevExpress.Web.ASPxEditors.v7.3.dll
+D:\IBP\bin\DevExpress.Web.ASPxGridView.v7.3.dll
+D:\IBP\bin\DevExpress.Web.v7.3.dll
+D:\IBP\bin\System.Configuration.dll
+D:\IBP\bin\System.Core.dll
+D:\IBP\bin\System.Data.DataSetExtensions.dll
+D:\IBP\bin\System.Data.dll
+D:\IBP\bin\System.dll
+D:\IBP\bin\System.Drawing.dll
+D:\IBP\bin\System.EnterpriseServices.dll
+D:\IBP\bin\System.Web.dll
+D:\IBP\bin\System.Web.Extensions.dll
+D:\IBP\bin\System.Web.Mobile.dll
+D:\IBP\bin\System.Web.Services.dll
+D:\IBP\bin\System.Xml.dll
+D:\IBP\bin\System.Xml.Linq.dll
+D:\IBP\bin\CrystalDecisions.CrystalReports.Engine.xml
+D:\IBP\bin\CrystalDecisions.Windows.Forms.xml
+D:\IBP\bin\CrystalDecisions.Web.xml
+D:\IBP\bin\CrystalDecisions.Shared.xml
+D:\IBP\bin\DevExpress.Web.ASPxEditors.v7.3.xml
+D:\IBP\bin\DevExpress.Web.v7.3.xml
+D:\IBP\bin\CrystalDecisions.ReportSource.xml
+D:\IBP\bin\DevExpress.Data.v7.3.xml
+D:\IBP\bin\DevExpress.Web.ASPxGridView.v7.3.xml
+D:\IBP\obj\Debug\ResolveAssemblyReference.cache
+D:\IBP\obj\Debug\Ligita.Resources.resources
+D:\IBP\obj\Debug\IBP.vbproj.GenerateResource.Cache
+D:\IBP\obj\Debug\Ligita.dll
+D:\IBP\obj\Debug\Ligita.xml
+D:\IBP\obj\Debug\Ligita.pdb
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\Ligita.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\Ligita.pdb
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\Ligita.xml
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\CrystalDecisions.Enterprise.Framework.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\CrystalDecisions.Enterprise.InfoStore.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\CrystalDecisions.ReportSource.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\CrystalDecisions.Shared.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\CrystalDecisions.Web.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\CrystalDecisions.Windows.Forms.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\System.Configuration.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\System.Core.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\System.Data.DataSetExtensions.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\System.Data.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\System.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\System.Drawing.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\System.EnterpriseServices.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\System.Web.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\System.Web.Extensions.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\System.Web.Mobile.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\System.Web.Services.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\System.Xml.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\System.Xml.Linq.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\CrystalDecisions.CrystalReports.Engine.xml
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\CrystalDecisions.Windows.Forms.xml
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\CrystalDecisions.Web.xml
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\CrystalDecisions.Shared.xml
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\DevExpress.Web.ASPxEditors.v7.3.xml
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\DevExpress.Web.v7.3.xml
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\CrystalDecisions.ReportSource.xml
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\DevExpress.Data.v7.3.xml
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\bin\DevExpress.Web.ASPxGridView.v7.3.xml
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\obj\Debug\ResolveAssemblyReference.cache
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\obj\Debug\Ligita.Resources.resources
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\obj\Debug\IBP.vbproj.GenerateResource.Cache
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\obj\Debug\Ligita.dll
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\obj\Debug\Ligita.xml
+D:\Edwin\Ligita + IBP 20110706\IBP20110706\obj\Debug\Ligita.pdb
+D:\Edwin\IBP\bin\Ligita.dll
+D:\Edwin\IBP\bin\Ligita.pdb
+D:\Edwin\IBP\bin\Ligita.xml
+D:\Edwin\IBP\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Edwin\IBP\bin\CrystalDecisions.Enterprise.Framework.dll
+D:\Edwin\IBP\bin\CrystalDecisions.Enterprise.InfoStore.dll
+D:\Edwin\IBP\bin\CrystalDecisions.ReportSource.dll
+D:\Edwin\IBP\bin\CrystalDecisions.Shared.dll
+D:\Edwin\IBP\bin\CrystalDecisions.Web.dll
+D:\Edwin\IBP\bin\CrystalDecisions.Windows.Forms.dll
+D:\Edwin\IBP\bin\System.Configuration.dll
+D:\Edwin\IBP\bin\System.Core.dll
+D:\Edwin\IBP\bin\System.Data.DataSetExtensions.dll
+D:\Edwin\IBP\bin\System.Data.dll
+D:\Edwin\IBP\bin\System.dll
+D:\Edwin\IBP\bin\System.Drawing.dll
+D:\Edwin\IBP\bin\System.EnterpriseServices.dll
+D:\Edwin\IBP\bin\System.Web.dll
+D:\Edwin\IBP\bin\System.Web.Extensions.dll
+D:\Edwin\IBP\bin\System.Web.Mobile.dll
+D:\Edwin\IBP\bin\System.Web.Services.dll
+D:\Edwin\IBP\bin\System.Xml.dll
+D:\Edwin\IBP\bin\System.Xml.Linq.dll
+D:\Edwin\IBP\bin\CrystalDecisions.CrystalReports.Engine.xml
+D:\Edwin\IBP\bin\CrystalDecisions.Windows.Forms.xml
+D:\Edwin\IBP\bin\CrystalDecisions.Web.xml
+D:\Edwin\IBP\bin\CrystalDecisions.Shared.xml
+D:\Edwin\IBP\bin\CrystalDecisions.ReportSource.xml
+D:\Edwin\IBP\obj\Debug\ResolveAssemblyReference.cache
+D:\Edwin\IBP\obj\Debug\Ligita.Resources.resources
+D:\Edwin\IBP\obj\Debug\IBP.vbproj.GenerateResource.Cache
+D:\Edwin\IBP\obj\Debug\Ligita.dll
+D:\Edwin\IBP\obj\Debug\Ligita.xml
+D:\Edwin\IBP\obj\Debug\Ligita.pdb
+H:\IBP\bin\Ligita.dll
+H:\IBP\bin\Ligita.pdb
+H:\IBP\bin\Ligita.xml
+H:\IBP\bin\CrystalDecisions.CrystalReports.Engine.dll
+H:\IBP\bin\CrystalDecisions.Enterprise.Framework.dll
+H:\IBP\bin\CrystalDecisions.Enterprise.InfoStore.dll
+H:\IBP\bin\CrystalDecisions.ReportSource.dll
+H:\IBP\bin\CrystalDecisions.Shared.dll
+H:\IBP\bin\CrystalDecisions.Web.dll
+H:\IBP\bin\CrystalDecisions.Windows.Forms.dll
+H:\IBP\bin\DevExpress.Data.v7.3.dll
+H:\IBP\bin\DevExpress.Web.ASPxEditors.v7.3.dll
+H:\IBP\bin\DevExpress.Web.ASPxGridView.v7.3.dll
+H:\IBP\bin\DevExpress.Web.v7.3.dll
+H:\IBP\bin\System.Configuration.dll
+H:\IBP\bin\System.Core.dll
+H:\IBP\bin\System.Data.DataSetExtensions.dll
+H:\IBP\bin\System.Data.dll
+H:\IBP\bin\System.dll
+H:\IBP\bin\System.Drawing.dll
+H:\IBP\bin\System.EnterpriseServices.dll
+H:\IBP\bin\System.Web.dll
+H:\IBP\bin\System.Web.Extensions.dll
+H:\IBP\bin\System.Web.Mobile.dll
+H:\IBP\bin\System.Web.Services.dll
+H:\IBP\bin\System.Xml.dll
+H:\IBP\bin\System.Xml.Linq.dll
+H:\IBP\bin\CrystalDecisions.CrystalReports.Engine.xml
+H:\IBP\bin\CrystalDecisions.Windows.Forms.xml
+H:\IBP\bin\CrystalDecisions.Web.xml
+H:\IBP\bin\CrystalDecisions.Shared.xml
+H:\IBP\bin\DevExpress.Web.ASPxEditors.v7.3.xml
+H:\IBP\bin\DevExpress.Web.v7.3.xml
+H:\IBP\bin\CrystalDecisions.ReportSource.xml
+H:\IBP\bin\DevExpress.Data.v7.3.xml
+H:\IBP\bin\DevExpress.Web.ASPxGridView.v7.3.xml
+H:\IBP\obj\Debug\ResolveAssemblyReference.cache
+H:\IBP\obj\Debug\Ligita.Resources.resources
+H:\IBP\obj\Debug\IBP.vbproj.GenerateResource.Cache
+H:\IBP\obj\Debug\Ligita.dll
+H:\IBP\obj\Debug\Ligita.xml
+H:\IBP\obj\Debug\Ligita.pdb
+D:\Edwin\IBP\bin\DevExpress.Web.ASPxEditors.v7.3.xml
+D:\Edwin\IBP\bin\DevExpress.Web.v7.3.xml
+D:\Edwin\IBP\bin\DevExpress.Data.v7.3.xml
+D:\Edwin\IBP\bin\DevExpress.Web.ASPxGridView.v7.3.xml
+C:\inetpub\wwwroot\IBPCompiled\bin\Ligita.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\Ligita.pdb
+C:\inetpub\wwwroot\IBPCompiled\bin\Ligita.xml
+C:\inetpub\wwwroot\IBPCompiled\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\CrystalDecisions.Enterprise.Framework.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\CrystalDecisions.Enterprise.InfoStore.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\CrystalDecisions.ReportSource.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\CrystalDecisions.Shared.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\CrystalDecisions.Web.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\CrystalDecisions.Windows.Forms.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\System.Configuration.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\System.Core.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\System.Data.DataSetExtensions.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\System.Data.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\System.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\System.Drawing.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\System.EnterpriseServices.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\System.Web.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\System.Web.Extensions.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\System.Web.Mobile.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\System.Web.Services.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\System.Xml.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\System.Xml.Linq.dll
+C:\inetpub\wwwroot\IBPCompiled\bin\CrystalDecisions.CrystalReports.Engine.xml
+C:\inetpub\wwwroot\IBPCompiled\bin\CrystalDecisions.Windows.Forms.xml
+C:\inetpub\wwwroot\IBPCompiled\bin\CrystalDecisions.Web.xml
+C:\inetpub\wwwroot\IBPCompiled\bin\CrystalDecisions.Shared.xml
+C:\inetpub\wwwroot\IBPCompiled\bin\CrystalDecisions.ReportSource.xml
+C:\inetpub\wwwroot\IBPCompiled\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\IBPCompiled\obj\Debug\Ligita.Resources.resources
+C:\inetpub\wwwroot\IBPCompiled\obj\Debug\IBP.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\IBPCompiled\obj\Debug\Ligita.dll
+C:\inetpub\wwwroot\IBPCompiled\obj\Debug\Ligita.xml
+C:\inetpub\wwwroot\IBPCompiled\obj\Debug\Ligita.pdb

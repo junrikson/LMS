@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSQuotationAll" targetNamespace="http://tempuri.org/DSQuotationAll.xsd" xmlns:mstns="http://tempuri.org/DSQuotationAll.xsd" xmlns="http://tempuri.org/DSQuotationAll.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSQuotationAll" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DSQuotationAll" msprop:Generator_UserDSName="DSQuotationAll" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="QuotationAll" msprop:Generator_UserTableName="QuotationAll" msprop:Generator_RowDeletedName="QuotationAllRowDeleted" msprop:Generator_TableClassName="QuotationAllDataTable" msprop:Generator_RowChangedName="QuotationAllRowChanged" msprop:Generator_RowClassName="QuotationAllRow" msprop:Generator_RowChangingName="QuotationAllRowChanging" msprop:Generator_RowEvArgName="QuotationAllRowChangeEvent" msprop:Generator_RowEvHandlerName="QuotationAllRowChangeEventHandler" msprop:Generator_TablePropName="QuotationAll" msprop:Generator_TableVarName="tableQuotationAll" msprop:Generator_RowDeletingName="QuotationAllRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Quotation_No" msprop:Generator_UserColumnName="Quotation_No" msprop:Generator_ColumnPropNameInRow="Quotation_No" msprop:Generator_ColumnVarNameInTable="columnQuotation_No" msprop:Generator_ColumnPropNameInTable="Quotation_NoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Nama_Customer" msprop:Generator_UserColumnName="Nama_Customer" msprop:Generator_ColumnPropNameInRow="Nama_Customer" msprop:Generator_ColumnVarNameInTable="columnNama_Customer" msprop:Generator_ColumnPropNameInTable="Nama_CustomerColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Penerima" msprop:Generator_UserColumnName="Penerima" msprop:Generator_ColumnPropNameInRow="Penerima" msprop:Generator_ColumnVarNameInTable="columnPenerima" msprop:Generator_ColumnPropNameInTable="PenerimaColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Nama_Barang" msprop:Generator_UserColumnName="Nama_Barang" msprop:Generator_ColumnPropNameInRow="Nama_Barang" msprop:Generator_ColumnVarNameInTable="columnNama_Barang" msprop:Generator_ColumnPropNameInTable="Nama_BarangColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="NamaHarga" msprop:Generator_UserColumnName="NamaHarga" msprop:Generator_ColumnPropNameInRow="NamaHarga" msprop:Generator_ColumnVarNameInTable="columnNamaHarga" msprop:Generator_ColumnPropNameInTable="NamaHargaColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Harga" msprop:Generator_UserColumnName="Harga" msprop:Generator_ColumnPropNameInRow="Harga" msprop:Generator_ColumnVarNameInTable="columnHarga" msprop:Generator_ColumnPropNameInTable="HargaColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

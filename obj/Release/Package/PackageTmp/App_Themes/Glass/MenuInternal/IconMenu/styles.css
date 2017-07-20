@@ -1,0 +1,24 @@
+﻿.dxmMenu_Demo
+{
+	font: 11px Tahoma;
+	color: White;
+	padding: 35px 0px 20px 0px;
+}
+.dxmMenuSeparator_Demo
+{
+    width: 1px;
+    height: 15px;
+	background-color: White;
+}
+.dxmMenu_Demo a
+{
+	font: 11px Tahoma;
+	color: White;
+	text-decoration: underline;
+}
+.dxmMenuItem_Demo {
+	font: 11px Tahoma;
+	color: White;
+	white-space: nowrap;
+    padding: 0px;
+}

@@ -1,0 +1,16 @@
+D:\Others\Ekspedisi\LMS\bin\LMS.dll
+D:\Others\Ekspedisi\LMS\bin\LMS.pdb
+D:\Others\Ekspedisi\LMS\bin\LMS.xml
+D:\Others\Ekspedisi\LMS\obj\Debug\LMS.Resources.resources
+D:\Others\Ekspedisi\LMS\obj\Debug\LMS.vbproj.GenerateResource.Cache
+D:\Others\Ekspedisi\LMS\obj\Debug\LMS.dll
+D:\Others\Ekspedisi\LMS\obj\Debug\LMS.xml
+D:\Others\Ekspedisi\LMS\obj\Debug\LMS.pdb
+D:\Others\Ekspedisi\LMS\bin\Newtonsoft.Json.dll
+D:\Others\Ekspedisi\LMS\bin\System.Net.Http.Formatting.dll
+D:\Others\Ekspedisi\LMS\bin\System.Web.Http.dll
+D:\Others\Ekspedisi\LMS\bin\System.Web.Http.WebHost.dll
+D:\Others\Ekspedisi\LMS\bin\Newtonsoft.Json.xml
+D:\Others\Ekspedisi\LMS\bin\System.Net.Http.Formatting.xml
+D:\Others\Ekspedisi\LMS\bin\System.Web.Http.xml
+D:\Others\Ekspedisi\LMS\bin\System.Web.Http.WebHost.xml

@@ -1,0 +1,14 @@
+﻿body
+{
+}
+	    
+.NoPrint 
+{ 
+	DISPLAY: none 
+}
+
+#PrintBtn
+{
+	visibility : hidden
+}
+
